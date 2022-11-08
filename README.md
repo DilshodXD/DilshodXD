@@ -39,8 +39,6 @@ Find out more about me & feel free to connect with me here:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilshodxd&show_icons=true&theme=gotham" alt="dilshodxd" />
 
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodxd&show_icons=true&theme=gotham&layout=compact' alt="dilshodxd"/></p>
-
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=dilshodxd&theme=onestar"
