@@ -43,7 +43,7 @@ Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar"
+  <a href="https://github-profile-trophy.vercel.app/?username=dilshodxd&theme=onestar"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=dilshodxd&theme=onestar&row=1&margin-w=15&margin-h=35&no-bg=true"
       alt="DilshodXD"
