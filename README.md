@@ -4,11 +4,15 @@ I am Dilshod Xojimuhammedov. I specialize in creating high-quality and amazing f
 
 Find out more about me & feel free to connect with me here:
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Dilshod_Xojimuhammedov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/dilshod-xojimuhammedov-843b00250/) 
 [![Instagram Badge](https://img.shields.io/badge/-@Dilshod__Xojimuhammedov_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Dilshod__Xojimuhammedov/)](https://www.instagram.com/dilshod__xojimuhammedov/)
 [![Telegram Badge](https://img.shields.io/badge/@DilshodXD-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DilshodXD)](https://t.me/DilshodXD) 
 <a href="mailto:dilshodxdxd@gmail.com">
     <img src="https://img.shields.io/badge/@dilshodxdxd-c5221f?style=flat-square&logo=gmail&logoColor=white" alt="">
+</a>
+<a href="tel:998950186355">
+    <img src="https://img.shields.io/badge/+998950186355-CD9834?style=flat-square&logo=call&logoColor=white" alt="">
 </a>
 
 
