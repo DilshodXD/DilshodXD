@@ -1,10 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Dilshod </h1>
 
+I am Dilshod Xojimuhammedov. I specialize in creating high-quality and amazing front-end services, web applications, websites using JavaScript and React. I am currently learning FullStack (MERN) programming by learning NodeJS, ExpressJs and MongoDB. I solve problems, automate things, help businesses and people to grow and improve life.
+
+Find out more about me & feel free to connect with me here:
+
 [![Linkedin Badge](https://img.shields.io/badge/-Dilshod_Xojimuhammedov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/dilshod-xojimuhammedov-843b00250/) 
 [![Instagram Badge](https://img.shields.io/badge/-@Dilshod__Xojimuhammedov_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Dilshod__Xojimuhammedov/)](https://www.instagram.com/dilshod__xojimuhammedov/)
 [![Telegram Badge](https://img.shields.io/badge/@DilshodXD-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DilshodXD)](https://t.me/DilshodXD) 
+<a href="mailto:dilshodxdxd@gmail.com">
+    <img src="https://img.shields.io/badge/@dilshodxdxd-c5221f?style=flat-square&logo=gmail&logoColor=white" alt="">
+</a>
 
-  
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Laravel & Vue
@@ -24,6 +31,7 @@
 ![Image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilshodxd&show_icons=true&theme=gotham" alt="dilshodxd" />
 
