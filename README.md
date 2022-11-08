@@ -28,5 +28,3 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilshodxd&show_icons=true&theme=gotham" alt="dilshodxd" />
 
 <p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodxd&show_icons=true&theme=gotham&layout=compact' alt="dilshodxd"/></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshodxd&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="dilshodxd" /></a> </p>
