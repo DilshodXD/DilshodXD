@@ -137,24 +137,6 @@
   </a>
 </p>
 
-
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dilshodxd&show_icons=true&locale=en"
-    alt="dilshodxd"
-  />
-</p>
-
-<p>
-    <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodxd&"
-    alt="dilshodxd"
-  />
-</p>
-
 <p>
     &nbsp;<img
       align="left"
