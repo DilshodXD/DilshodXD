@@ -18,7 +18,7 @@ Find out more about me & feel free to connect with me here:
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently working on React 
 - :muscle: Do Bodybuilding
 - :rocket: Always ready to collaborate for Dev Experiments
 
