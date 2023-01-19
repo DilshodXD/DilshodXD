@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 <a href="mailto:dilshodxdxd@gmail.com">
     <img src="https://img.shields.io/badge/@dilshodxdxd-c5221f?style=flat-square&logo=gmail&logoColor=white" alt="">
 </a>
-<a href="tell:998950186355">
+<a href="tel: +998950186355">
     <img src="https://img.shields.io/badge/+998950186355-CD9834?style=flat-square&logo=call&logoColor=white" alt="">
 </a>
 
