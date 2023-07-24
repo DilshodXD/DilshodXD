@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Dilshod </h1>
 
-I am Dilshod Xojimuhammedov. I specialize in creating high-quality and amazing front-end services, web applications, websites using JavaScript and React. I am currently learning FullStack (MERN) programming by learning NodeJS, ExpressJs and MongoDB. I solve problems, automate things, help businesses and people to grow and improve life.
+My name is Dilshad Khojimuhammedov. I create high-quality and amazing frontend services, web applications, and websites using JavaScript and React. Currently, I am learning FullStack (MERN) programming by studying NodeJS, ExpressJS, and MongoDB. I solve problems, automate tasks, and help businesses and individuals grow and improve their lives.
 
-Find out more about me & feel free to connect with me here:
-
+To learn more about me, please feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dilshod_Xojimuhammedov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/dilshod-xojimuhammedov-843b00250/) 
 [![Telegram Badge](https://img.shields.io/badge/@DilshodXD-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DilshodXD)](https://t.me/DilshodXD) 
@@ -13,11 +12,9 @@ Find out more about me & feel free to connect with me here:
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm currently working on React 
-- :muscle: Do Bodybuilding
-- :rocket: Always ready to collaborate for Dev Experiments
-
+- :computer: I am currently working on React.
+- :muscle: I do bodybuilding.
+- :rocket: I am always ready to collaborate on development experiments.
 ## ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
