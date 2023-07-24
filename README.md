@@ -12,9 +12,10 @@ To learn more about me, please feel free to connect with me here:
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- :computer: I am currently working on React. \n 
-- :muscle: I do bodybuilding. \n
-- :rocket: I am always ready to collaborate on development experiments. \n
+<p>- :computer: I am currently working on React.</p>
+<p>- :muscle: I do bodybuilding.</p>
+<p>- :rocket: I am always ready to collaborate on development experiments.</p>
+
 ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
