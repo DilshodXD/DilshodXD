@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Dilshod </h1>
 
-My name is Dilshad Khojimuhammedov. I create high-quality and amazing frontend services, web applications, and websites using JavaScript and React. Currently, I am learning FullStack (MERN) programming by studying NodeJS, ExpressJS, and MongoDB. I solve problems, automate tasks, and help businesses and individuals grow and improve their lives.
+My name is Dilshad Khojimuhammedov. I create high-quality and amazing frontend services, web applications, and websites using JavaScript and React. Currently, I am learning FullStack (MERN) programming by studying NodeJS, ExpressJS, and MongoDB. I solve problems, automate tasks, and help businesses and individuals grow and improve their lives. 
 
 To learn more about me, please feel free to connect with me here:
 
